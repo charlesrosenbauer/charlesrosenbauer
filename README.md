@@ -1,6 +1,4 @@
 
-Studying Algorithmic Dark Matter
-
-Building the Bzo Programming Language, the Proof Network, and more stealth-mode tech.
+Working to rebuild the foundations of computing, among other things
 
 Tweet at me: @bzogrammer
